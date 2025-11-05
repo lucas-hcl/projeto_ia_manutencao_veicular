@@ -11,3 +11,6 @@ Projeto de Machine Learning que prevê a manutenção de veículos.
 
 
 * Criei uma interface de usuário (Dashboard) usando Streamlit para deploy do modelo, incluindo um módulo de Explicabilidade (XAI) que fornece o diagnóstico do fator crítico e a solução de reparo ao usuário.
+
+* Tecnologias
+Python, Pandas, Scikit-learn, Streamlit, Git/GitHub.
